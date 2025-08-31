@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1",
+    "title": "Recipe Title (updated)",
+    "description": "Brief description",
+    "ingredients": [
+      "ingredient 1",
+      "ingredient 2"
+    ],
+    "instructions": [
+      "step 1",
+      "step 2"
+    ],
+    "cookingTime": 30,
+    "servings": 4,
+    "difficulty": "easy",
+    "rating": 4.5,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "Green Smoothie",
+    "description": "Healthy spinach-banana smoothie with almond milk.",
+    "ingredients": [
+      "spinach",
+      "banana",
+      "almond milk",
+      "honey"
+    ],
+    "instructions": [
+      "Add all to blender",
+      "Blend until smooth"
+    ],
+    "cookingTime": 3,
+    "servings": 1,
+    "difficulty": "easy",
+    "id": "7d66bd9c-53fd-429d-a0f5-fe73b531d849",
+    "createdAt": "2025-08-31T16:18:33.990Z"
+  },
+  {
+    "title": "Chicken Curry",
+    "description": "Spicy chicken curry with coconut milk.",
+    "ingredients": [
+      "chicken",
+      "curry powder",
+      "coconut milk",
+      "onion",
+      "garlic"
+    ],
+    "instructions": [
+      "Sauté onion and garlic",
+      "Add chicken and brown",
+      "Stir in curry powder",
+      "Pour in coconut milk and simmer"
+    ],
+    "cookingTime": 45,
+    "servings": 4,
+    "difficulty": "medium",
+    "id": "3",
+    "createdAt": "2025-08-31T16:18:33.990Z"
+  }
+]
