@@ -13,10 +13,15 @@ morgan — HTTP request logging
 
 JSON file as a simple data store
 
+
 ⚙️ Setup & Run
+
       npm install
+      
       node server.js
+      
       -Server listens on http://localhost:3000
+
 
 🧭 API Endpoints
 - GET /api/recipes
