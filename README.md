@@ -20,7 +20,7 @@ JSON file as a simple data store
       
       node server.js
       
-      -Server listens on http://localhost:3000
+      #Server listens on http://localhost:3000
 
 
 🧭 API Endpoints
